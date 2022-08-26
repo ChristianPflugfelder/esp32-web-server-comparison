@@ -1,0 +1,2 @@
+# ignore Asio component in linguist language stats
+webserver/cpp_asio/components/* linguist-vendored
